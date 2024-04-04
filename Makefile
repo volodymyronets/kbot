@@ -27,4 +27,4 @@ push:
 
 clean: 
 	rm -rf kbot
-	docker rmi $(git rev-parse --short HEAD)
+
